@@ -1,4 +1,4 @@
-# easy-typing-practice (bepali and english
+# easy-typing-practice (nepali and english)
 
 it is java base application 
 
