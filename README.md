@@ -1,13 +1,18 @@
-# easy-typing-practice (nepali and english)
+# easy-typing-practice (nepali and english)||Typeshala
 
-it is java base application 
+It is java base application 
 
-here you can practice typing in english and nepali language
+Here you can practice typing in english and nepali language
 
-You need java se installed in you computer to run this application
+You need java SE installed in you computer to run this application
 
-it is netbeans project put it in zip file and import to neatbeans
+It is netbeans project put it in zip file and import to neatbeans
 
-for User input area you should have mysql and keyboard database>>nepali table name clumans >>data 
+For User input area you should have mysql and keyboard database>>nepali table name & clumans >>data 
+
+If you want to know more about this project follow me
+Fb : Bipin Acharya  
+Insta : lonewolf_bpn
+
 
  
